@@ -1,0 +1,11 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="Lol"
+[[mods]] #mandatory
+modId="redditswhiners" #mandatory
+version="1.0" #mandatory
+displayName="MenuFixer" #mandatory
+authors="ATE47" #optional
+description='''
+Your depression is making you notice unnecessary things on your screen? This mod is made for you.
+'''
